@@ -1,16 +1,9 @@
-# meals
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2024-06-19_15-51-33](https://github.com/Sherbek26/meals/assets/139198851/d8728081-eed6-4fa0-a72d-a97663e18372)
+![photo_2024-06-19_15-51-41 (2)](https://github.com/Sherbek26/meals/assets/139198851/12524437-d2ba-4389-8cb5-4f49b16c8534)
+![photo_2024-06-19_15-51-41](https://github.com/Sherbek26/meals/assets/139198851/ea329d7a-0bd3-4c60-8606-62b9d4572d55)
+![photo_2024-06-19_15-51-42](https://github.com/Sherbek26/meals/assets/139198851/d623f4c4-a26d-4842-9fb5-071eeac0c6b0)
+![photo_2024-06-19_15-51-43](https://github.com/Sherbek26/meals/assets/139198851/315d0f6a-a110-44e8-84ab-601b15755a9f)
+![photo_2024-06-19_15-51-48 (2)](https://github.com/Sherbek26/meals/assets/139198851/d9236786-0ec8-4a30-954a-e5ca6a6799fb)
+![photo_2024-06-19_15-51-48 (3)](https://github.com/Sherbek26/meals/assets/139198851/885026d5-00bd-4254-bc3b-adcc0f26af30)
+![photo_2024-06-19_15-51-48](https://github.com/Sherbek26/meals/assets/139198851/08ec2f5d-1cc7-4887-a8a7-f068c3854c7f)
+![photo_2024-06-19_15-51-51](https://github.com/Sherbek26/meals/assets/139198851/0bc9468a-bbf7-47ee-9cf0-63d0cfd67a8f)
